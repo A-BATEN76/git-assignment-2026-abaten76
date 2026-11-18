@@ -11,7 +11,7 @@
 <?php
 echo "abdul baten";
 
-$a = 145;
+$a = 15;
 $b = 34;
 
 echo "<br> Result: " . ($a + $b);
