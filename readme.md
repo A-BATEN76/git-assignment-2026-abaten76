@@ -1,1 +1,1 @@
-# PHP Assignment
+This project contains PHP classroom codes and examples.
